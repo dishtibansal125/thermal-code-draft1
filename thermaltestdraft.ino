@@ -1,5 +1,5 @@
 # thermal-code-draft1
-# not tested yet
+
 # Thermaldraft.ino
 Test 
 #include &lt;Arduino.h&gt;
